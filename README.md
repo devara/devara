@@ -1,4 +1,4 @@
-## Hi there, I am [Devara Eko](https://devaraeko.com) <a href="https://devaraeko.com"></a>
+## Hi there, I am [Devara Eko](https://devaraeko.com){:target="_blank"} <a href="https://devaraeko.com"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devaraeko)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devaraeko.com)
